@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@deepgram/sdk": "^1.4.2",
+    "axios": "^0.27.2",
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1"
+  },
+  "name": "devbot",
+  "description": "Discord bot for Dev.to Discord Server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J3ffJessie/DevBot.git"
+  },
+  "author": "Jeff Jessie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J3ffJessie/DevBot/issues"
+  },
+  "homepage": "https://github.com/J3ffJessie/DevBot#readme"
+}
